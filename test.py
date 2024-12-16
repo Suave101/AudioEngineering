@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load audio file
-y, sr = librosa.load('Saxophone.wav', sr=22050, duration=21)
+y, sr = librosa.load('creston.wav', sr=22050, duration=60)
 
 # Calculate STFT
 stft = librosa.stft(y, hop_length=512)

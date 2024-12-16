@@ -21,3 +21,9 @@ possible way to determine the tonality of a player in respect to the intonation 
 > Note: Further research on this value will be shown below Figure 1
 
 ![img_1.png](img_1.png)
+
+This figure below, is of a higher quality tone specimen. See that the index is lower which indicates a lower standard
+deviation which is predicted to determine a higher quality of tonality.
+> Note: Lower scores here mean higher quality.
+
+![img_2.png](img_2.png)
